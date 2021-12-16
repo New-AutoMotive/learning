@@ -1,0 +1,6 @@
+name: learn
+channels:
+  - defaults
+dependencies:
+  - pandas
+prefix: /home/ben/miniconda3/envs/learn
