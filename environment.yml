@@ -77,13 +77,13 @@ dependencies:
   - libev=4.33=h516909a_1
   - libevent=2.1.10=hcdb4288_3
   - libffi=3.3=he6710b0_2
-  - libgcc-ng=9.3.0=h5101ec6_17
+  - libgcc-ng
   - libgomp=9.3.0=h5101ec6_17
   - libnghttp2=1.43.0=h812cca2_0
   - libprotobuf=3.16.0=h780b84a_0
   - libsodium=1.0.18=h7b6447c_0
   - libssh2=1.9.0=ha56f1ee_6
-  - libstdcxx-ng=9.3.0=hd4cf53a_17
+  - libstdcxx-ng
   - libthrift=0.14.2=he6d91bd_1
   - libutf8proc=2.6.1=h7f98852_0
   - lz4-c=1.9.3=h9c3ff4c_1
