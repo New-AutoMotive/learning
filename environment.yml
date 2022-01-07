@@ -4,6 +4,4 @@ channels:
 dependencies:
   - pandas
   - jupyterlab
-  - google-api-python-client
-  - google-cloud-bigquery-storage
 prefix: /home/ben/miniconda3/envs/learn
