@@ -1,8 +1,8 @@
-<!-- <div align = 'center'>
+<div align = 'center'>
     <img src="/assets/logo.png" width="20"><br>
-</div> -->
+</div>
 
-![New AutoMotive](assets/logo.png)
+<!-- ![New AutoMotive](assets/logo.png) -->
 
 # Learning
 A repository for team educational and learning resources
