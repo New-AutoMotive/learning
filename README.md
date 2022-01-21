@@ -1,5 +1,5 @@
 <div align = 'center'>
-    <img src="/assets/logo.png" width="20"><br>
+    <img src="/assets/logo.png" width="200"><br>
 </div>
 
 <!-- ![New AutoMotive](assets/logo.png) -->
